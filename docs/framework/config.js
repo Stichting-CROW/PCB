@@ -1,14 +1,18 @@
 var respecConfig = { // => https://github.com/stichting-crow/respec/wiki
     specType: "CROW-DOC",
     specStatus: "",
-    pubDomain: "verkeersborden",
-    shortName: "framework",
-    subtitle: "Uitgangspunten, use-case en architectuurframework",
+    pubDomain: "Provinciaal Contractenbuffet",
+    shortName: "pcb",
+    subtitle: "Beheerplan",
     editors: [
         {
             name: "Elisabeth Klören",
             company: "CROW",
         }
+        {
+            name: "Lotte Bekendam",
+            company: "CROW",
+        }
     ],
-    github: "https://github.com/Stichting-CROW/verkeersborden",
+    github: "https://github.com/Stichting-CROW/PCB",
 };
