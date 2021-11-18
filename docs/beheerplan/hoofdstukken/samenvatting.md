@@ -1,1 +1,1 @@
-Het Provinciaal Contractenbuffet (PCB) wordt beheerd door een samenwerkingsverband van de provincies en CROW. Dit document beschrijft alle aspecten van het beheer van het PCB conform het BOMOS model.
+Het Provinciaal Contractenbuffet (PCB) wordt beheerd door een samenwerkingsverband van de provincies en CROW. Dit document beschrijft alle aspecten van het beheer van het PCB conform het [BOMOS model](https://www.logius.nl/diensten/bomos), het Beheer- en OntwikkelModel voor Open Standaarden van Logius.
