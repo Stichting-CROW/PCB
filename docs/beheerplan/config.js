@@ -1,6 +1,6 @@
 var respecConfig = { // => https://github.com/stichting-crow/respec/wiki
     specType: "CROW-DOC",
-    specStatus: "",
+    specStatus: "Concept",
     pubDomain: "Provinciaal Contractenbuffet",
     shortName: "pcb",
     subtitle: "Beheerplan",
