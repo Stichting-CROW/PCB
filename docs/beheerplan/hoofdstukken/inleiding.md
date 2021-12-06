@@ -13,7 +13,7 @@ Beheer volgens BOMOS heeft de volgende voordelen:
 *	Het beheer gebeurt transparant.
 *	Informatie is voor iedereen toegankelijk met heldere voorwaarden voor gebruik.
 
-![Activiteitendiagram van BOMOS van Forum voor standaardisatie](./media/bomos.PNG "Activiteitendiagram van Beheermodel voor Open Standaarden (BOMOS) van Forum voor standaardisatie")
+![Activiteitendiagram van BOMOS van Forum voor standaardisatie](./hoofdstukken/media/bomos.PNG "Activiteitendiagram van Beheermodel voor Open Standaarden (BOMOS) van Forum voor standaardisatie")
 
 
 
