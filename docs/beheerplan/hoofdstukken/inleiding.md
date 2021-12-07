@@ -2,7 +2,7 @@
 
 
 ## Het Provinciaal Contracten Buffet
-![De bouwstenen van het provinciaal contractenbuffet](./hoofdstukken/media/pcblegoblokken.jpeg "De bouwstenen van het provinciaal contractenbuffet")
+![De bouwstenen van het provinciaal contractenbuffet](./hoofdstukken/media/pcblegoblokken.jpeg.jpg "De bouwstenen van het provinciaal contractenbuffet")
 
 
 ## Doel document
