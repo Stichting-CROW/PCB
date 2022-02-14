@@ -3,14 +3,14 @@ var respecConfig = { // => https://github.com/stichting-crow/respec/wiki
     specStatus: "wd",
     pubDomain: "Provinciaal Contractenbuffet",
     shortName: "pcb",
-    subtitle: "Beheerplan",
+    subtitle: "Gebruikershandleiding PCB en LinkedData",
     editors: [
         {
             name: "Elisabeth Klören",
             company: "CROW",
         },
         {
-            name: "Lotte Bekendam",
+            name: "Rik",
             company: "CROW",
         }
     ],
