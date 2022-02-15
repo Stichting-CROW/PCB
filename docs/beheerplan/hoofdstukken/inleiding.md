@@ -18,8 +18,8 @@ Beheer volgens BOMOS heeft de volgende voordelen:
 
 ![Activiteitendiagram van BOMOS van Forum voor standaardisatie](./hoofdstukken/media/bomos.PNG "Activiteitendiagram van Beheermodel voor Open Standaarden (BOMOS) van Forum voor standaardisatie")
 
-### Digitale standaarden
-Voor digitale standaarden gelden daarnaast de criteria van [Ken Krechmer](https://www.csrstds.com/OpnStdsCallforAction.pdf)
+### Ken Krechmer
+Voor digitale en informatiestandaarden gelden daarnaast de criteria van [Ken Krechmer](https://www.csrstds.com/OpnStdsCallforAction.pdf). Bij het PCB bevindt zich zowel inhoud in documentformats als in datavorm (eisensets). Deze inhoud wordt in digitale processen gebruikt, zoals bij het beheren van eisenbibliotheken (individuele eisensets van provincies), het opstellen en beheersen van contracten, ricicomanagement en het verder uitdetailleren van eisen, werkproces en kwaliteitsproces tijdens uitvoering van het project. Daarom is het van belang dat de informatieproducten van het PCB voldoen aan de criteria van Ken Krechmer.
 
 
 
