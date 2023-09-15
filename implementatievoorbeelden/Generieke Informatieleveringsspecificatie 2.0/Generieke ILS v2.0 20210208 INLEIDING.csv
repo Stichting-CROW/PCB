@@ -1,0 +1,36 @@
+0.          Inleiding en leeswijzer;;
+0.1.             Inleiding;;
+;;Om Asset Management optimaal uit te kunnen voeren gedurende de gehele levenscyclus van assets, heeft de Opdrachtgever gedurende de levenscyclus steeds actuele, betrouwbare en complete informatie nodig. Hiervoor dient informatie over assets efficiënt beheerd te worden. Meerdere partijen, zowel intern als extern, zullen informatie uitwisselen tijdens de gehele asset levenscyclus.
+;;Wanneer sprake is van aanpassingen aan assets dient revisie-informatie hieromtrent met de Opdrachtgever gedeeld te worden. Om eenduidigheid te bereiken over welke informatie wanneer aangeleverd wordt en aan welke uitgangspunten deze dient te voldoen, is de Informatieleveringsspecificatie (ILS) opgesteld. 
+;;De Informatielevering Specificatie (ILS) is een onderdeel van het contract. Hierin is de overdracht van gegevens gespecificeerd tussen de Opdrachtnemer en de Opdrachtgever. Met de ILS krijgt de Opdrachtgever de juiste, actuele assetgegevens/-data van objecten van de Opdrachtnemer aangeleverd. Hierdoor kunnen areaalgegevens actueel en op orde worden gehouden. Deze heeft als doel eenduidigheid te bereiken over welke informatie wanneer aangeleverd wordt en aan welke uitgangspunten deze dient te voldoen. Daarnaast wordt er als toepassingsgebied genoemd, de situatie wanneer er sprake is van aanpassingen aan assets en revisie-informatie hieromtrent met de Opdrachtgever gedeeld dient te worden.
+;;
+0.2.             Structuur;;
+;;
+;Deze 'Informatieleveringsspecificatie' is gestructureerd op basis van de volgende 3 niveaus:;
+;1. ;Hoofdstuk
+;1.1 ;Deelhoofdstuk
+;1.1.1 ;Paragraaf
+;;
+;Elke paragraaf is vervolgens opgebouwd uit eisen die elk genummerd zijn. Soms komt er binnen een eis een genummerde opsomming voor. De nummering van eisen en eventuele opsommingen binnen eisen is als volgt weergegeven:;
+;1.;Eis: elke eis wordt voorafgegaan door een nummer met punt.
+;1);Sub 1: indien er een genummerde opsomming binnen een eis staat, dan is deze herkenbaar aan het nummer met haakje: “1)”.
+;a.;Indien er een opsomming is opgenomen binnen een subeis, dan is deze herkenbaar aan de alfabetische nummering.
+;;
+;;
+;;
+0.4;Revisies;
+;Versie 1.0;In oktober 2019 opgeleverd in het kader van het BIM Programma van de 12 provincies, Amsterdam en Rotterdam met CROW
+;Versie 2.0;In december 2020 opgeleverd naar aanleidng van review en praktijkervaringen  in het kader van het BIM Programma van de 12 provincies, Amsterdam en Rotterdam met CROW en afstemming op de Vraagspecificatie Procesdeel van het PCB
+;;
+;;
+;;
+;;
+;;
+;;
+0.5;Disclaimer;
+;;Met het downloaden van deze eisenset verklaart de downloader/gebruiker/organisatie van de gebruiker (alle drie van toepassing) het volgende:
+;;* Alle contracten die opgesteld worden met (onder delen van) deze eisenset zullen worden geregistreerd bij CROW zodat het afdrachtensysteem, nooodzakelijk voor beheer en onderhoud van deze set gegaranderd blijft.
+;;"* Gebruiker is verantwoordelijk voor het juist en oordeelkundig toepassen van deze eisenset en het melden van omissies en fouten aan CROW via PCBhelpdesk@crow.nl.
+CROW is niet aansprakelijk voor fouten in de eisenset of gevolgen van het gebruik ervan."
+;;
+0.6;Activiteitenboom en Informatieproducten;
